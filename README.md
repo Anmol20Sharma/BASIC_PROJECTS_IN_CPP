@@ -63,3 +63,11 @@ A straightforward converter to switch between different measurement units.
 - **Loop Control**
 
 ---
+
+
+## ▶️ How to Run
+
+You can run these programs using any **online C++ compiler** of your choice (like [Programiz](https://www.programiz.com/cpp-programming/online-compiler)) or using a local IDE such as **VS Code** or **Dev C++**.  
+
+Simply paste the code into the editor, compile, and execute.
+
