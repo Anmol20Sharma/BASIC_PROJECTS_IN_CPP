@@ -71,3 +71,28 @@ You can run these programs using any **online C++ compiler** of your choice (lik
 
 Simply paste the code into the editor, compile, and execute.
 
+
+
+## 🧠 Learning Goals
+- Strengthen understanding of **C++ basics**  
+- Practice **OOP and File Handling**  
+- Learn **modular program design**  
+- Build real-world **console-based applications**
+
+---
+
+## 🛠️ Tech Stack
+- **Language:** C++ (C++11 or above)  
+- **Tools:** VS Code, Dev C++, Code::Blocks  
+- **Platform:** Console (Command Line Interface)
+
+---
+
+## 👨‍💻 Author
+**Anmol Sharma**  
+🎓 *B.Tech in Artificial Intelligence & Machine Learning (2027)*  
+🏫 *Pranveer Singh Institute of Technology, Kanpur*
+
+---
+
+⭐ *If you find this repository helpful, don’t forget to give it a star!*
