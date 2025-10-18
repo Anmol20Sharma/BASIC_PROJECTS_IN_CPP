@@ -1,3 +1,9 @@
+# 🎯 C++ Mini Projects Collection
+
+A collection of beginner-friendly, console-based C++ programs designed to strengthen **core programming concepts**, **OOP**, **file handling**, and **modular design**.
+
+---
+
 ## 📘 Projects Overview
 
 | No. | Project Name | Description | Concepts Used |
@@ -5,7 +11,10 @@
 | 1️⃣ | **Library Management System** | Manage books — add, search, issue, return, and remove them | Classes, File Handling, Vectors |
 | 2️⃣ | **Student Report Card Generator** | Generate report cards with marks, total, average, and grade | Structures, Arrays, Loops |
 | 3️⃣ | **Unit Converter** | Convert between units like km↔miles, kg↔lbs, °C↔°F | Functions, Switch Case, Arithmetic |
- 
+| 4️⃣ | **Number Guessing Game** | Guess the randomly generated number with hints and attempt tracking | Random Number Generation, Loops, Conditional Statements |
+| 5️⃣ | **To-Do List Manager** | Manage daily tasks with add, view, update, delete, and persistent storage | Structs, Vectors, File Handling, Loops & Conditional Statements |
+
+---
 
 ## 🏛️ 1. Library Management System
 
@@ -64,6 +73,46 @@ A straightforward converter to switch between different measurement units.
 
 ---
 
+## 🎲 4. Number Guessing Game
+
+A console-based program where the player tries to guess a randomly generated number within a specified range.
+
+### ✨ Features
+- Randomly generates a number between a lower and upper limit  
+- Prompts the player to guess the number  
+- Provides hints: **Too low** or **Too high**  
+- Tracks the **number of attempts**  
+- Simple and interactive console interface  
+
+### 🧠 Concepts Used
+- **Random Number Generation** (`rand()`, `srand()`, `time(0)`)  
+- **Loops** (`do-while`) for repeated guesses  
+- **Conditional Statements** (`if-else`) for hint logic  
+- **Input/Output** (`cin` / `cout`)  
+- **Variables & Counters** to keep track of attempts  
+
+---
+
+## 📝 5. To-Do List Manager
+
+A console-based program to manage daily tasks with options to add, view, update, and delete tasks, all saved persistently in a file.
+
+### ✨ Features
+- Add new tasks with **title, due date, and due time**  
+- View all tasks with **status** (Pending / Done)  
+- Mark tasks as **done**  
+- Delete tasks  
+- **Persistent storage** using `tasks.txt`  
+- User-friendly console menu  
+
+### 🧠 Concepts Used
+- **Structs** for task representation  
+- **Vectors** for dynamic task storage  
+- **File Handling** (`ifstream`, `ofstream`) for persistence  
+- **Loops & Conditional Statements** for menu and task operations  
+- **Input/Output** (`cin` / `cout`)  
+
+---
 
 ## ▶️ How to Run
 
@@ -71,7 +120,7 @@ You can run these programs using any **online C++ compiler** of your choice (lik
 
 Simply paste the code into the editor, compile, and execute.
 
-
+---
 
 ## 🧠 Learning Goals
 - Strengthen understanding of **C++ basics**  
@@ -84,7 +133,7 @@ Simply paste the code into the editor, compile, and execute.
 ## 🛠️ Tech Stack
 - **Language:** C++ (C++11 or above)  
 - **Tools:** VS Code, Dev C++, Code::Blocks  
-- **Platform:** Console (Command Line Interface)
+- **Platform:** Console (Command Line Interface) 
 
 ---
 
@@ -96,3 +145,4 @@ Simply paste the code into the editor, compile, and execute.
 ---
 
 ⭐ *If you find this repository helpful, don’t forget to give it a star!*
+
